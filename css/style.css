@@ -1,0 +1,87 @@
+
+.imagenNav img{
+    width: 13rem;
+}
+.botonNav{
+    font-size: x-large;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.container-fluid{
+    justify-content:flex-end;
+    align-items: flex-end;
+    background-color: brown;
+}
+.carousel-inner{
+    height: 50rem;
+}
+.flyers img{
+    height: 17rem;
+    width: 17rem;
+    margin: 2rem;
+    align-content: center;
+
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: brown;
+    font-size: x-large;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif;
+width: 100%;
+}
+/* nueva temporada */
+/* .productos img{
+    width: 35vh;
+    height: 50vh;
+}
+.productos{
+    margin: 60px;
+    margin-bottom: 150px;
+} */
+body{
+    background-color: bisque;
+    height: 100%;
+}
+.productos img {
+    margin: 1em;
+    width: 100%;
+    
+}
+
+.productos p {
+    margin: 1em;
+    font-size: 1.5em;
+    font-weight: 500;
+    color: brown;
+}
+/* sucursales */
+.quienesSomos{
+    font-size: large;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 3rem;
+}
+/* sucursales */
+.sucursal img{
+height: 20rem;
+width: 20rem;
+}
+.dir{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+/* contacto */
+.contacto{
+    width: 60%;
+    height: 100%;
+    justify-content: space-around;
+}
+.consulta{
+    height: 20%vh;
+}
+
